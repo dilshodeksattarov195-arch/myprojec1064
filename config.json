@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruync",
+        "uuid": 9101456,
+        "checksum": "tsfitp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
